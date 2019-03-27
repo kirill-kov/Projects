@@ -15,3 +15,7 @@
 [**Олимпиадные задачи**](https://github.com/kirill-kov/Projects/blob/master/test_acmp.py) - в данном файле представлены задачи с наименьшим количеством символов.
 
 [**Текстовая адвенчура**](https://github.com/kirill-kov/Projects/tree/master/Games/Text_adventure) - в данном проекте я попытался создать небольшую текстовую игру по мотивам Zork, Colossal Cave Adventure и др.
+
+[**Автотест знакомство**](https://github.com/kirill-kov/Projects/blob/master/autotest_01.py) - знакомство с Selenium
+
+[**Автотест парсинг**](https://github.com/kirill-kov/Projects/blob/master/autotest_02.py) - использование того же Selenium со сбором информации с сайта mail.ru
