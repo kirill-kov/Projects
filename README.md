@@ -19,3 +19,7 @@
 [**Автотест знакомство**](https://github.com/kirill-kov/Projects/blob/master/autotest_01.py) - знакомство с Selenium
 
 [**Автотест парсинг**](https://github.com/kirill-kov/Projects/blob/master/autotest_02.py) - использование того же Selenium со сбором информации с сайта mail.ru
+
+[**Какой цикл быстрее?**](https://github.com/kirill-kov/Projects/blob/master/for_or_while.py) -  сравнение по времени двух циклов for и while. 
+
+[**Какая сортировка быстрее?**](https://github.com/kirill-kov/Projects/blob/master/sorting.py) - сравнение по времени двух (пока) сортировок пузырьком и выбором, рандомно сгенерированного массива N числа элементов, где N задается пользователем.
